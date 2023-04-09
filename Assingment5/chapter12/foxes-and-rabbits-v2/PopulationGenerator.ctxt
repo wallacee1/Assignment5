@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PopulationGenerator
+comment0.text=\n\ Write\ a\ description\ of\ class\ PopulationGenerator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=field\ view
+comment1.target=PopulationGenerator(Field,\ SimulatorView)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PopulationGenerator\n
+comment2.params=
+comment2.target=void\ setColors()
+comment3.params=FOX_CREATION_PROBABILITY\ RABBIT_CREATION_PROBABILITY\ MOUNTAINLION_CREATION_PROBABILITY
+comment3.target=java.util.List\ populate(double,\ double,\ double)
+numComments=4

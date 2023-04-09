@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Hunter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Hunter\ here.\n\n\ @author\ Eric\ Wallace\n\ @version\ 1\n
+comment1.params=field\ location
+comment1.target=Hunter(Field,\ Location)
+comment1.text=\n\ Constructor\ for\ the\ Hunter.\n
+comment2.params=newActors
+comment2.target=void\ act(java.util.List)
+comment3.params=locations
+comment3.target=void\ shoot(java.util.List)
+comment4.params=animal
+comment4.target=void\ kill(Animal)
+comment5.params=
+comment5.target=Location\ getLocation()
+comment5.text=\n\ Return\ the\ Hunter's\ location.\n\ @return\ The\ hunter's\ location.\n
+comment6.params=newLocation
+comment6.target=void\ setLocation(Location)
+comment6.text=\n\ Place\ the\ hunter\ at\ the\ new\ location\ in\ the\ given\ field.\n\ @param\ newLocation\ The\ hunter's\ new\ location.\n
+comment7.params=
+comment7.target=Location\ getRandomLocation()
+comment8.params=
+comment8.target=boolean\ isActive()
+numComments=9
