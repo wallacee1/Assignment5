@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TextView
+comment0.text=\n\ Write\ a\ description\ of\ class\ TextView\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TextView()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TextView\n
+comment2.params=field
+comment2.target=boolean\ isViable(Field)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=animalClass\ color
+comment4.target=void\ setColor(java.lang.Class,\ java.awt.Color)
+comment5.params=step\ field
+comment5.target=void\ showStatus(int,\ Field)
+numComments=6
